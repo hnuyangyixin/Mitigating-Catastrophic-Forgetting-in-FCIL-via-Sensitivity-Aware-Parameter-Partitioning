@@ -1,0 +1,12 @@
+# Direct dependencies inferred from source imports; versions are not a reproduction lock.
+torch
+torchvision
+numpy
+pandas
+scikit-learn
+Pillow
+tqdm
+matplotlib
+requests
+# Optional ImageNet download helpers use Hugging Face datasets.
+datasets
